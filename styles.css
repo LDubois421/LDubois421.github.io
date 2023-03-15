@@ -1,0 +1,35 @@
+/* all of your css goes here */
+body{
+  background-image: url('assets/websitebackground.jpg');
+  background-size:cover;
+  color: white;
+}
+h1 {
+
+    text-align: center;
+}
+div {
+  color: white;
+  border-style: solid;
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+    font-size: 30px;
+}
+
+  div.description{
+    color: white;
+    border-style: solid;
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+    font-size: 30px;
+
+  }
+div.user_guide{
+  float:right;
+}
+
+div.About_Me{
+  height:550px;
+}
